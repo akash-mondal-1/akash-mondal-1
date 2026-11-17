@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">Hey 👋, I'm Akash Mondal</h1>
-<h3 align="center">🚀 Python Developer | Backend Enthusiast | Tech Explorer</h3>
+<h3 align="center">🚀 Java Developer | Backend Enthusiast | Tech Explorer</h3>
 
 <!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+%7C+Flask;Building+Cool+Things+💻;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Sql+%7C+Java;Building+Cool+Things+💻;Always+Learning+🚀">
 </p>
 
 <!-- HERO GIF -->
@@ -18,7 +18,7 @@
 
 - 🔭 Currently working on **Backend Development (Python)**
 - 🌱 Learning **Advanced APIs & Scalable Systems**
-- 💬 Ask me about **Dialogflow, SQL, Backend Systems**
+- 💬 Ask me about **SQL, Backend Systems**
 - ✍️ I write tech blogs on:  
   👉 https://helpingalways24.blogspot.com
 - 📫 Reach me at: **73akash58mondal@gmail.com**
@@ -38,7 +38,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,aws,gcp,c" />
+  <img src="https://skillicons.dev/icons?i=java,python,django,flask,mysql,aws,gcp,c" />
 </p>
 
 ---
